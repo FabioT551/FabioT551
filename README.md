@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm studying Software Engineering at SDU<br>🌱 I'm currently learning C# and Object-Oriented Programming<br>
+🎓 I'm studying Software Engineering at SDU<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/f4bio0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-t-2a3650429/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabiotelesca6@gmail.com)
